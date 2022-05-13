@@ -23,7 +23,7 @@ play any one track on your spotify webplayer/app
 open a command prompt and type the following
 
 cd mood-player
-
 python FER.py webcam 25
 
 press space bar to make change the music according to your mood.
+
