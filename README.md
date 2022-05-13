@@ -31,4 +31,4 @@ press space bar to make change the music according to your mood.
 
 # Screen Shots
 
-![image](https://user-images.githubusercontent.com/78225676/168332212-f9135ceb-6026-40af-870a-d56317e26de2.png)
+![image](https://user-images.githubusercontent.com/78225676/168332431-ebb46f02-789c-4814-bed8-3805eb1c7a91.png)
