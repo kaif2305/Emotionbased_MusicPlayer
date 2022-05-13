@@ -29,6 +29,6 @@ python FER.py webcam 25
 press space bar to make change the music according to your mood.
 
 
-# Detecting Emotion
+# Screen Shots
 
-![image](https://user-images.githubusercontent.com/78225676/168331877-81c25708-ba66-4fb7-a852-d506a995f7f0.png)
+![image](https://user-images.githubusercontent.com/78225676/168332212-f9135ceb-6026-40af-870a-d56317e26de2.png)
